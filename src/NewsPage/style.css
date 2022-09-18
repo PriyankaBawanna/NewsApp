@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.heading {
+  margin: 1.5rem;
+  text-decoration: none;
+  color: black;
+}
